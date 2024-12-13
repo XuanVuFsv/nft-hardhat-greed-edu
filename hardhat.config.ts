@@ -22,8 +22,8 @@ const config: HardhatUserConfig = {
         network: 'ancient8Testnet',
         chainId: 28122024,
         urls: {
-          apiURL: 'https://api.routescan.io/v2/network/testnet/evm/28122024/etherscan',
-          browserURL: 'https://ancient8.testnet.thesuperscan.io',
+          browserURL: 'https://scanv2-testnet.ancient8.gg',
+          apiURL: 'https://scanv2-testnet.ancient8.gg/api',
         },
       },
     ],
