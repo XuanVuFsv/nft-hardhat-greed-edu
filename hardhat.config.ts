@@ -14,7 +14,7 @@ const config: HardhatUserConfig = {
   },
   etherscan: {
     apiKey: {
-      "ancient8-celestia-testnet": '', // apiKey is not required, just set a placeholder
+      "ancient8-celestia-testnet": 'Ancient8Testnet', // apiKey is not required, just set a placeholder
     },
     customChains: [
       {

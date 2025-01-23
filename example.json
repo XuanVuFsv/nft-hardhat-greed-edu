@@ -1,0 +1,838 @@
+[
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "The Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreide7prie3i5ysouywjzchjdsxbrpr7evechaxsahgxlt7muupp3em",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Autumn Forest",
+    "description": "A forest where you can find all resources of moderate levels, including water, seeds, minerals, and animals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreib7d26iuishhnay4tmrbtzeuiqscj7mx5s64gm4vp7kg737on2hc4",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "medium"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "none"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "uncommon"
+      }
+    ]
+  },
+  {
+    "name": "Death Island",
+    "description": "A dead island where you can only find water and various minerals. However, there are many rare minerals.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreidv5ccultrr2kz3kw72aweojing2pxowbll2awy3ln2j6v2vvlnvm",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "low"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "mineral"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  },
+  {
+    "name": "Green Hill",
+    "description": "A green hill with long grass. A place where you can find a large number of animals alongside other resources.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibnnwpe33mrzbjk7vayfghkxyktibqglbccettfm6qhyy5yrkeq2a",
+    "attributes": [
+      {
+        "trait_type": "quanty_item",
+        "value": "high"
+      },
+      {
+        "trait_type": "specify_item",
+        "value": "animal"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "rare"
+      }
+    ]
+  }
+]

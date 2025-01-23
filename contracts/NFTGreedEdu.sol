@@ -19,7 +19,7 @@ contract NFTGreedEdu is ERC721 {
 
     // Override the _baseURI function
     function _baseURI() internal view virtual override returns (string memory) {
-        return "https://ivory-tricky-minnow-831.mypinata.cloud/ipfs/bafybeid25py4ynjuunhl7snv76enmboogfyyfxsj2a5wqw6xucphkrtxpi/";
+        return "https://ivory-tricky-minnow-831.mypinata.cloud/ipfs/bafybeicf6jhxnwyvxwyn6g6sjalgad5egcqssw3tlyej7nsbxyg4pjfd4y/";
     }
 
     function tokenURI(uint256 tokenId) public view override returns (string memory) {
